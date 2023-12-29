@@ -3,6 +3,10 @@ Megatron was a telegram file management bot that helped a lot of users, it speci
 
 Megatron is a project that is very close to my heart, me being the sole brains who developed it since the very beginning, and as you are aware, for the course of its life span the bot was never opensource unlike many other telegram bots which did a similar job. Many users beseeched to make it opensource so after I decided to kill the project I decided not just to make the source code public but to instead build the whole thing from scratch and upload it on YouTube. The purpose of this was to ensure that anyone could create their own bot based on this with ease and to ensure that the code was beautiful and easy to read. 
 
+> ## Description
+> Megatron was a telegram file management bot that helped a lot of users, specially movie channel managers to upload their files to telegram by just providing a link to it. The project initially started as roanuedhuru_bot which lately retired and came back as Megatron which was a side project of the famous Maldivian Telegram community - @Baivaru until it retired.
+
+
 > [Youtube Playlist](https://www.youtube.com/playlist?list=PLApP3aDELGhvQqPcA_DsTSt-sA0v2OkqP)
 
 ## Important libraries used by the application:
